@@ -1,0 +1,17 @@
+#main-doc {
+  display: flex;
+}
+section {
+  background-color: gray;
+}
+aside {
+  background-color: azure;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
